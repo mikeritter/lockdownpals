@@ -3,7 +3,7 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Jigsaw',
-    'description' => 'Website description.',
+    'title' => 'LockdownPals.com',
+    'description' => 'Connecting people during lockdown',
     'collections' => [],
 ];
